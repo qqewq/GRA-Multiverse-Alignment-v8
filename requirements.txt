@@ -1,0 +1,4 @@
+numpy>=1.21.0
+# sentence-transformers>=2.2.0  # uncomment for real embeddings
+# umap-learn>=0.5.3             # uncomment for visualization
+# matplotlib>=3.5.0             # uncomment for plotting
